@@ -1,6 +1,6 @@
 ---
 title: Smile Machine (Client)
-subtitle: July 2017 - 5 month
+subtitle: July 2017 - 5 months
 blurb: Sole developer, rebuilt [this app](https://play.google.com/store/apps/details?id=com.charlesstanley.android){:target="_blank"} for a financial client.
 image: img/timeline/client/smile_machine.jpg
 project-url: http://www.ignis.co.uk/
