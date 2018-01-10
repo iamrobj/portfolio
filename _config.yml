@@ -1,0 +1,19 @@
+url: http://robj.github.io
+baseurl: 
+
+# Site Settings
+title: Rob J - Android App Ninja
+description: "IT'S NICE TO MEET YOU"
+keywords: "rob j, android, android developer, readittome"
+email: rob@iamrobj.com
+google-tracking-id:
+
+# Career Settings
+# Default career thumbnail image.
+career-img: "img/me.jpg"
+
+exclude: ["Rakefile", "LICENSE", "readme.markdown"]
+
+career-title: Things I've Done
+
+about: Hey - I'm Rob J, I'm an Android developer based out of London 👋 <br><br>Across the past 7 years I've worked with many agencies & startups on both big & small projects, as part of a team or as a sole developer, as well as having released many of my own apps which have been featured on the [BBC](http://www.bbc.co.uk/news/business-38954975){:target="_blank"}, [the Guardian](https://www.theguardian.com/technology/appsblog/2012/dec/14/best-android-apps-gta-snowman-viddy){:target="_blank"}, [Lifehacker](https://lifehacker.com/the-best-android-apps-to-make-driving-safer-easier-an-1755443280){:target="_blank"}, [the Next Web](https://thenextweb.com/apps/2018/01/10/remindee-is-the-android-reminder-app-for-people-who-hate-setting-reminders/){:target="_blank"} & more..  You can check out everything I've done below 🤓👇

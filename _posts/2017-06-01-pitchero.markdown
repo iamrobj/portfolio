@@ -1,0 +1,9 @@
+---
+title: Pitchero (Client)
+subtitle: May 2017 - 7 months
+blurb: Part of a team rebuilding Pitchero's [club app](https://play.google.com/store/apps/details?id=com.pitchero.ph) from the ground up.
+image: img/timeline/client/pitchero.png
+project-url: https://www.pitchero.com/
+layout: default
+modal-id: c-pitchero
+---

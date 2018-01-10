@@ -1,0 +1,9 @@
+---
+title: IGT UK (Client)
+subtitle: Aug 2016 - 7 months
+blurb: Sole developer bringing new features to an existing project & building a brand new greenfield app
+image: img/timeline/client/igt_uk.png
+project-url: https://www.igt.com/
+layout: default
+modal-id: c-igt_uk
+---

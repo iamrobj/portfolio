@@ -1,0 +1,15 @@
+---
+layout: default
+title: Clubhost
+subtitle: Sep 2013 - 2 Months
+blurb: Sole developer for this startup building an app to book vip club experiences.
+image: "img/timeline/client/clubhost.png"
+project-url: https://play.google.com/store/apps/details?id=com.seventeen.clubhost
+modal-id: c-clubhost
+date: 2013-09-01
+img: clubhost.png
+thumbnail: clubhost-thumbnail.png
+screenshot: clubhost.jpg
+project-date: Sep 2013
+---
+

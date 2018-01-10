@@ -1,0 +1,7 @@
+---
+title: Can't Talk
+subtitle: Oct 2017 - Ongoing
+blurb: Uses notifications in an unconventional manner outlined in [this Medium post](https://medium.com/@lowcarbrob/how-to-reply-to-android-app-notifications-c09e44da9bdb){:target="_blank"} I wrote.
+image: "img/timeline/apps/canttalk.webp"
+project-url: https://play.google.com/store/apps/details?id=com.robj.canttalk
+---

@@ -1,0 +1,9 @@
+---
+title: Remindee
+subtitle: Dec 2017 - Ongoing
+blurb: Lightweight [app](https://thenextweb.com/apps/2018/01/10/remindee-is-the-android-reminder-app-for-people-who-hate-setting-reminders/){:target="_blank"} to [create reminders](https://androidandme.com/2018/01/applications/top-5-most-popular-android-apps-from-last-week-hq-trivia-oneplus-switch/){:target="_blank"} directly [from anything](http://www.androidpolice.com/2018/01/08/remindee-lightweight-app-uses-androids-share-button-easily-create-reminders/){:target="_blank"}.
+image: img/timeline/apps/remindee.png
+project-url: https://play.google.com/store/apps/details?id=com.robj.remindee
+layout: default
+modal-id: c-remindee
+---

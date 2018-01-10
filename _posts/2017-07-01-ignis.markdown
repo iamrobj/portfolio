@@ -1,0 +1,10 @@
+---
+title: ignis Ltd (Client)
+subtitle: July 2017 - 1 month
+blurb: Greenfield prototype project for a whitelabel customer facing retail app
+image: img/timeline/client/ignis.png
+project-url: http://www.ignis.co.uk/
+layout: default
+modal-id: c-ignis_uk
+
+---
