@@ -1,0 +1,9 @@
+---
+title: ReadItToMe 2.0
+subtitle: June 2018 - Ongoing
+blurb: Massive update of my most popular app
+image: img/timeline/apps/ritm.webp
+project-url: https://play.google.com/store/apps/details?id=robj.readit.tomefree
+layout: default
+modal-id: c-ritmr-2
+---
